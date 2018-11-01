@@ -1,0 +1,47 @@
+.container {
+    font-family: "Helvetica";
+    width: 100%;
+}
+.col {
+    padding: 30px;
+    margin: 5px;
+}
+#header {
+    font-size: 30px;
+    background: gray;
+    color: white;
+    text-align: center;
+}
+
+
+#soggy {
+    color: white;
+    text-align: center;
+    background: silver;
+}
+
+#milkbcereal {
+    text-align: center;
+    color: white;
+    background: gainsboro;
+}
+
+#babies {
+    color: white;
+    text-align: center;
+    background: #696969;
+}
+
+#dad {
+    color: white;
+    text-align: center;
+    color: white;
+    background: #A9A9A9;
+}
+
+#conclusion {
+    color: white;
+    background: #778899;
+    font-size: 30px;
+    text-align: center;
+}
